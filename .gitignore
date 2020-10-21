@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+yarn.lock
+
+# Webpack output
+dist
+
+# Editor
+.vscode
+.idea
+.DS_Store

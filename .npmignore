@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+yarn.lock
+
+# Editor
+.DS_Store
+
+src/
+tsconfig.json
+.github
+yarn-error.log

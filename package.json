@@ -1,0 +1,23 @@
+{
+  "name": "dracuila-ui",
+  "description": "UI library for react components inspired in dracula theme",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/mkafonso/dracuila-ui.git",
+  "author": "mkafonso <makaya2afonso@gmail.com>",
+  "contributors": [
+    "mkafonso <makaya2afonso@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "library",
+    "css",
+    "react",
+    "ui"
+  ],
+  "devDependencies": {
+    "@types/react": "^16.9.53",
+    "react": "^17.0.0",
+    "typescript": "^4.0.3"
+  }
+}
